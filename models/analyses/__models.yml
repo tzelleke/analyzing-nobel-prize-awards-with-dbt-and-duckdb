@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: rolling_average_age
+
+  - name: aggregated_by_affiliation_country
+  - name: top_10_countries_by_laureates_with_category_grain
+  - name: top_10_countries_by_prizes_with_category_grain
+
+  - name: aggregated_by_affiliation
+  - name: top_10_affiliations_by_laureates_with_category_grain
+  - name: top_10_affiliations_by_prizes_with_category_grain

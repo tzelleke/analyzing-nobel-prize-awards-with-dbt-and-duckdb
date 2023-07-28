@@ -1,0 +1,21 @@
+name: "nobel_prize"
+version: "1.0.0"
+config-version: 2
+
+profile: "duckdb"
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+vars: {}
+
+models:
+  nobel_prize:
+    +materialized: table
