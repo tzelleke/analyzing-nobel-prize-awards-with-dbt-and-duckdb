@@ -1,6 +1,0 @@
-version: 2
-
-models:
-  - name: int_research_prizes
-  - name: int_research_affiliations
-  - name: int_laureate_id_prizes

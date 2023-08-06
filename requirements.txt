@@ -1,5 +1,0 @@
-dbt-core==1.5.3
-dbt-duckdb==1.5.2
-duckdb==0.8.1
-sqlfluff==2.1.4
-sqlfluff-templater-dbt==2.1.4

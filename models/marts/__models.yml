@@ -1,7 +1,0 @@
-version: 2
-
-models:
-  - name: individual_laureates
-  - name: organizations_awarded
-  - name: research_prizes_country_stats
-  - name: research_prizes_affiliation_stats

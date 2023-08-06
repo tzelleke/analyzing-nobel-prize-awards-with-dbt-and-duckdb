@@ -1,6 +1,0 @@
-version: 2
-
-models:
-  - name: base
-  - name: stg_prizes
-  - name: stg_individual_laureates

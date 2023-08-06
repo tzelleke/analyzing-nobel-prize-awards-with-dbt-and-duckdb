@@ -1,9 +1,0 @@
-duckdb:
-  target: dev
-  outputs:
-    dev:
-      type: duckdb
-      path: "./reports/nobel-prize.duckdb"
-      database: "nobel-prize"
-      schema: "analytics"
-      threads: 4
